@@ -9,8 +9,6 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="programmer" width="230"/>
 Hi guys, I'm Ng Wai Ming! A Malaysian Front-end Developer.
 
-Currently, I am looking for a **Front-end Developer** position.
-
 ## <img src="https://media.giphy.com/media/dYmJ8k9pxr9Zuye3Gq/giphy.gif" width="40px" /> What kind of projects I have done?
 
 * Property Management System
@@ -38,5 +36,3 @@ Currently, I am looking for a **Front-end Developer** position.
 
 
 Last Updated on 07/05/2024 01:38:59 UTC
-
-[![Wai Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viol3tStar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
