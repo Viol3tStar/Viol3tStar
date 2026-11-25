@@ -31,8 +31,3 @@ Hi guys, I'm Ng Wai Ming! A Malaysian Front-end Developer.
 <code><img height="20" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/netlify.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/pwa.svg"></code>
-
-## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
-
-
-Last Updated on 07/05/2024 01:38:59 UTC
